@@ -1,5 +1,7 @@
 # minfy git and github assign3 and assign4
 
+## Assignment 3
+
 Step 1: Linked the github repository with the local repo.
 Step 2: Pushed the feature/add-styling and feature/update-content to the github repo.
 
@@ -24,6 +26,10 @@ How I resolved the conflict:
 1. I first merged the feature/add-styling branch to the main branch without conflicts.
 2. Then when I was merging the feature/update-content branch to the main branch, A conflict occured.
 3. Then I reolved it by keeping both the style elements and the updated content.
+
+
+
+
 
 
 
