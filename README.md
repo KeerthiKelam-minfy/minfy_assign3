@@ -15,3 +15,12 @@ RESLOVING THE MERGE CONFLICT:
 
 PULL REQUEST SUCCESSFULLY MERGED AND CLOSED:
 ![image](https://github.com/user-attachments/assets/66a555a0-229b-43af-869c-39b191ec9b65)
+
+
+
+
+How I resolved the conflict:
+
+1. I first merged the feature/add-styling branch to the main branch without conflicts.
+2. Then when I was merging the feature/update-content branch to the main branch, A conflict occured.
+3. Then I reolved it by keeping both the style elements and the updated content.
